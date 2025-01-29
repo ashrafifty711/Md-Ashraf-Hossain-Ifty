@@ -20,4 +20,9 @@ Published research in **medical image processing**, particularly **deep learning
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)  
 
-### 📫
+### 📫 Get in Touch  
+📧 Email: [ashrafhossain711@gmail.com](mailto:ashrafhossain711@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mdashrafhossainifty)  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=XXXXX) *(Replace with your link)*  
+
+🚀 Always open to research collaborations and AI discussions!  
